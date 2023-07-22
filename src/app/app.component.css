@@ -1,0 +1,21 @@
+/* app.component.css */
+.mat-autocomplete-panel {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    font-size: 14px;
+  }
+  
+  .mat-option {
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .mat-option:hover {
+    background-color: #ddd;
+  }
+  
+  .mat-option.mat-selected {
+    background-color: #2196F3;
+    color: #fff;
+  }
+  
